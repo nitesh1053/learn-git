@@ -4,6 +4,6 @@ int main()
 {
     int a,b;
     cin>>a>>b;
-    cout<< "THE DIFF of these value IS "<<" "<<a-b<<endl;
+    cout<< "THE multiply  of the these  values IS "<<" "<<a*b<<endl;
     return 0;
 }
